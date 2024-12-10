@@ -25,3 +25,6 @@ you must install
 
 The Program contains a salary predictor that predicts the salary of a given employee according to their age and experience as well as the department
 below are some visual representation of the program
+
+![RESULT](https://github.com/user-attachments/assets/ec8cb57a-358e-41a9-bb62-542973e6e888)
+![SS2](https://github.com/user-attachments/assets/684e0863-9c5c-4e4c-b2f6-9621c558b2e2)
